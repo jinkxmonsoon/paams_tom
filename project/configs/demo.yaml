@@ -1,0 +1,4 @@
+seeds: [0, 1]
+n_turns: 20
+scenarios: [C1_silent_desk, C2_walk_outdoor, C3_meeting_privacy, C5_unknown_interlocutor]
+variants: [baseline_naive, baseline_react_like, ours_modular, no_tom, no_cf, no_profiler, no_policies]
